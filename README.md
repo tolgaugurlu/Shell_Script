@@ -17,13 +17,13 @@
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/geeky-prashant/shell_script.git
+sudo git clone https://github.com/tolgaugurlu/Shell_Script.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/geeky-prashant/shell_script.git
+git clone https://github.com/tolgaugurlu/Shell_Script.git
 ```
 
 ### Contact
